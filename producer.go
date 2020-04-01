@@ -15,7 +15,7 @@ import (
 	"github.com/devopsfaith/krakend/proxy"
 )
 
-const producerNamespace = "github.com/devopsfaith/krakend-amqp/produce"
+const producerNamespace = "github.com/rabingaire/krakend-amqp/produce"
 
 var errNoProducerCfgDefined = errors.New("no amqp producer defined")
 

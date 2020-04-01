@@ -1,4 +1,4 @@
-module github.com/devopsfaith/krakend-amqp
+module github.com/rabingaire/krakend-amqp
 
 require (
 	github.com/devopsfaith/krakend v0.0.0-20190306181519-f4927628fef8

@@ -14,7 +14,7 @@ import (
 	"github.com/devopsfaith/krakend/proxy"
 )
 
-const consumerNamespace = "github.com/devopsfaith/krakend-amqp/consume"
+const consumerNamespace = "github.com/rabingaire/krakend-amqp/consume"
 
 var errNoConsumerCfgDefined = errors.New("no amqp consumer defined")
 var errNoBackendHostDefined = errors.New("no host backend defined")
